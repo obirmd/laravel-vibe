@@ -21,6 +21,16 @@
 /storage/*.key
 /storage/pail
 /vendor
+
+# Local agent configuration
+/.agents/
+/.claude/
+/.factory/
+/.grok/
+/.github/skills/
+/.mcp.json
+/boost.json
+/opencode.json
 _ide_helper.php
 Homestead.json
 Homestead.yaml
